@@ -1,0 +1,122 @@
+Name	Capital	Population	Flag
+China	Beijing	1432878345	data/Flags/cn.png
+India	New Delhi	1368737513	data/Flags/in.png
+United States	Washington, D.C.	329093110	data/Flags/us.png
+Indonesia	Jakarta	269536482	data/Flags/id.png
+Pakistan	Islamabad	220892340	data/Flags/pk.png
+Brazil	Brasília	212559417	data/Flags/br.png
+Nigeria	Abuja	206139587	data/Flags/ng.png
+Bangladesh	Dhaka	169575884	data/Flags/bd.png
+Russia	Moscow	146748590	data/Flags/ru.png
+Mexico	Mexico City	126577691	data/Flags/mx.png
+Japan	Tokyo	126010000	data/Flags/jp.png
+Ethiopia	Addis Ababa	117876227	data/Flags/et.png
+Philippines	Manila	109581078	data/Flags/ph.png
+Egypt	Cairo	102334404	data/Flags/eg.png
+Vietnam	Hanoi	97338579	data/Flags/vn.png
+DR Congo	Kinshasa	89561403	data/Flags/cd.png
+Turkey	Ankara	84339067	data/Flags/tr.png
+Iran	Tehran	83992949	data/Flags/ir.png
+Germany	Berlin	83783942	data/Flags/de.png
+Thailand	Bangkok	69799978	data/Flags/th.png
+United Kingdom	London	67886011	data/Flags/gb.png
+France	Paris	65273511	data/Flags/fr.png
+Italy	Rome	60461826	data/Flags/it.png
+Tanzania	Dodoma	60012400	data/Flags/tz.png
+South Africa	Pretoria	59436725	data/Flags/za.png
+Myanmar	Naypyidaw	54339766	data/Flags/mm.png
+Kenya	Nairobi	52214791	data/Flags/ke.png
+South Korea	Seoul	51269185	data/Flags/kr.png
+Colombia	Bogotá	50372424	data/Flags/co.png
+Spain	Madrid	47329981	data/Flags/es.png
+Uganda	Kampala	45741007	data/Flags/ug.png
+Argentina	Buenos Aires	45101781	data/Flags/ar.png
+Algeria	Algiers	43900000	data/Flags/dz.png
+Sudan	Khartoum	43849260	data/Flags/sd.png
+Ukraine	Kyiv	43733762	data/Flags/ua.png
+Iraq	Baghdad	40222493	data/Flags/iq.png
+Afghanistan	Kabul	38928346	data/Flags/af.png
+Poland	Warsaw	37846611	data/Flags/pl.png
+Canada	Ottawa	37742154	data/Flags/ca.png
+Morocco	Rabat	36910560	data/Flags/ma.png
+Saudi Arabia	Riyadh	34813871	data/Flags/sa.png
+Uzbekistan	Tashkent	34139600	data/Flags/uz.png
+Peru	Lima	32971854	data/Flags/pe.png
+Angola	Luanda	32866272	data/Flags/ao.png
+Malaysia	Kuala Lumpur	32365999	data/Flags/my.png
+Mozambique	Maputo	31255435	data/Flags/mz.png
+Ghana	Accra	31072940	data/Flags/gh.png
+Yemen	Sana'a	29825968	data/Flags/ye.png
+Nepal	Kathmandu	29136808	data/Flags/np.png
+Venezuela	Caracas	28435940	data/Flags/ve.png
+Madagascar	Antananarivo	27691018	data/Flags/mg.png
+Cameroon	Yaoundé	26545863	data/Flags/cm.png
+Ivory Coast	Yamoussoukro	26378274	data/Flags/ci.png
+North Korea	Pyongyang	25778816	data/Flags/kp.png
+Australia	Canberra	25687041	data/Flags/au.png
+Taiwan	Taipei	23568378	data/Flags/tw.png
+Niger	Niamey	23310715	data/Flags/ne.png
+Sri Lanka	Sri Jayawardenepura Kotte	21444000	data/Flags/lk.png
+Burkina Faso	Ouagadougou	20903273	data/Flags/bf.png
+Mali	Bamako	20250833	data/Flags/ml.png
+Romania	Bucharest	19237691	data/Flags/ro.png
+Malawi	Lilongwe	19129952	data/Flags/mw.png
+Chile	Santiago	19107216	data/Flags/cl.png
+Kazakhstan	Nur-Sultan	18754440	data/Flags/kz.png
+Zambia	Lusaka	18383955	data/Flags/zm.png
+Guatemala	Guatemala City	17915568	data/Flags/gt.png
+Ecuador	Quito	17643054	data/Flags/ec.png
+Syria	Damascus	17500657	data/Flags/sy.png
+Netherlands	Amsterdam	17134872	data/Flags/nl.png
+Senegal	Dakar	16743927	data/Flags/sn.png
+Cambodia	Phnom Penh	16486542	data/Flags/kh.png
+Chad	N'Djamena	16425864	data/Flags/td.png
+Somalia	Mogadishu	15893219	data/Flags/so.png
+Zimbabwe	Harare	15473818	data/Flags/zw.png
+Guinea	Conakry	13132795	data/Flags/gn.png
+Rwanda	Kigali	12952218	data/Flags/rw.png
+Benin	Porto-Novo	11801151	data/Flags/bj.png
+Burundi	Gitega	11575964	data/Flags/bi.png
+Tunisia	Tunis	11818619	data/Flags/tn.png
+Bolivia	Sucre	11673021	data/Flags/bo.png
+Belgium	Brussels	11589623	data/Flags/be.png
+Haiti	Port-au-Prince	11402528	data/Flags/ht.png
+Cuba	Havana	11326616	data/Flags/cu.png
+South Sudan	Juba	11193725	data/Flags/ss.png
+Dominican Republic	Santo Domingo	10847910	data/Flags/do.png
+Czech Republic	Prague	10693939	data/Flags/cz.png
+Greece	Athens	10423054	data/Flags/gr.png
+Jordan	Amman	10203134	data/Flags/jo.png
+Portugal	Lisbon	10196709	data/Flags/pt.png
+Azerbaijan	Baku	10139177	data/Flags/az.png
+Sweden	Stockholm	10099265	data/Flags/se.png
+United Arab Emirates	Abu Dhabi	9890402	data/Flags/ae.png
+Hungary	Budapest	9772756	data/Flags/hu.png
+Belarus	Minsk	9408400	data/Flags/by.png
+Tajikistan	Dushanbe	9321018	data/Flags/tj.png
+Austria	Vienna	9006398	data/Flags/at.png
+Serbia	Belgrade	8776940	data/Flags/rs.png
+Guinea-Bissau	Bissau	1968001	data/Flags/gw.png
+Equatorial Guinea	Malabo	1402985	data/Flags/gq.png
+Central African Republic	Bangui	4998000	data/Flags/cf.png
+East Timor	Dili	1296311	data/Flags/tl.png
+Iceland	Reykjavik	341243	data/Flags/is.png
+Comoros	Moroni	806153	data/Flags/km.png
+Solomon Islands	Honiara	652858	data/Flags/sb.png
+São Tomé and Príncipe	São Tomé	219159	data/Flags/st.png
+Kiribati	Tarawa	120100	data/Flags/ki.png
+Tuvalu	Funafuti	11792	data/Flags/tv.png
+Nauru	Yaren	10860	data/Flags/nr.png
+Palau	Ngerulmud	17900	data/Flags/pw.png
+San Marino	San Marino	33931	data/Flags/sm.png
+Monaco	Monaco	38300	data/Flags/mc.png
+Liechtenstein	Vaduz	38749	data/Flags/li.png
+Andorra	Andorra la Vella	77281	data/Flags/ad.png
+Marshall Islands	Majuro	58791	data/Flags/mh.png
+Saint Kitts and Nevis	Basseterre	53199	data/Flags/kn.png
+Maldives	Male	515696	data/Flags/mv.png
+Saint Lucia	Castries	184999	data/Flags/lc.png
+Saint Vincent and the Grenadines	Kingstown	110210	data/Flags/vc.png
+Tonga	Nuku'alofa	105695	data/Flags/to.png
+Samoa	Apia	200874	data/Flags/ws.png
+Micronesia	Palikir	105544	data/Flags/fm.png
